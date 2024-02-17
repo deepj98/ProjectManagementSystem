@@ -142,6 +142,7 @@ hoursContainer: {
     padding: 20,
     marginBottom: 50,
     backgroundColor: '#222222',
+    color: 'white',
   },
   projectId: {
     fontSize: 18,
@@ -173,8 +174,16 @@ hoursContainer: {
   deleteButtonContainer: {
     marginLeft: 12,
   },
-  
-  
+
+  HomeprojectName: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    marginBottom: 12,
+    color: '#FFFFFF',
+    fontFamily: 'System',
+  },
+
+   
 });
 
 export default styles;
